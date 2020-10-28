@@ -10,5 +10,7 @@ public class Hello {
         System.out.print(y + " ");
         int a = 123456789;
         System.out.println(a);
+        String b = "I'm finally get how to sync with Git))";
+        System.out.println(b);
     }
 }
